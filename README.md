@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshk1235
 - 👀 I’m interested in coding and game development
-- 🌱 I’m currently learning game development
+- 🌱 I’m currently learning bot development
 - 📫 How to reach me on linkedin www.linkedin.com/in/harshk1235
 
 <!---
